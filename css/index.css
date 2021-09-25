@@ -241,6 +241,16 @@ header ul li a:hover{
     background-color:#00BFFF;
     color: white;
 }
+@media (max-width:650){
+    .pr1 h5{
+        padding-top: 17px;
+        font-size: 21px;
+        margin-left: 5%;
+    }
+    .pr1 h5 a{
+        padding: 5px 7px;
+         }
+}
 .third{
     margin-top: 40px;
     padding: 30px;
